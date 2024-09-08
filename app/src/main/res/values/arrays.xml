@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>en</item>
+        <item>zh_cn</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>ru</item>
+        <item>pt</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>tr</item>
+        <item>pl</item>
+        <item>ja</item>
+        <item>uk</item>
+        <item>zh</item>
+        <item>by</item>
+    </string-array>
+</resources>
